@@ -1,11 +1,11 @@
-# Machine Learning - Defination
+# Machine Learning - Definition
 
-* Arthur Samuel - a checker board game designer from 1950's defined the term ML as (old ML defination)
-  * ML is a feild of study that gives computers **the ability to learn without being explicitly programmed.**
+* Arthur Samuel - a checker board game designer from 1950's defined the term ML as (old ML definition)
+  * ML is a field of study that gives computers **the ability to learn without being explicitly programmed.**
 
 * Tom Mitchell a friend of Carnegie Melon says
   * A computer program is said to **learn from the Experience _(E)_ with respect to some task _(T)_ and some performance measure _(P)_.**
-  * such that the performance P is directly propotional to the experience E with respect to the task.
+  * such that the performance P is directly proportional to the experience E with respect to the task.
 
 ## Major types of Machine learning
 
@@ -43,7 +43,7 @@ We could turn this example into a classification problem by instead making our o
 
 Unsupervised Learning allows us to work on the problems that has little or no idea on what our results should look like.
 
-* We can derive a **structure by clustering the relationship between the datas**.
+* We can derive a **structure by clustering the relationship between the data**.
 * They have no feedbacks based on the prediction result.
 
 **Example:**
