@@ -57,3 +57,7 @@ Unsupervised Learning, on the other hand allows us to work on the problems that 
 2. Social Network Analysis (friend circle)
 3. Astronomical data analysis
 4. Organize computing clusters
+
+---
+
+### [Next >>](./1-model-representation.md)
