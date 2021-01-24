@@ -9,14 +9,14 @@
 
 ## Major types of Machine learning
 
- 1. [Supervised Learning](#supervised)
+ 1. [Supervised Learning](#Supervised-Learning)
  2. [Unsupervised Learning](#Unsupervised-Learning)
  3. Reinforcement Learning
  4. Recommender systems
 
  ---
 
-### Supervised Learning {#supervised}
+### Supervised Learning
 
   In Supervised Learning, we are given a dataset that already has the correct answer/output. The main idea will be to find the relationship between the inputs/attributes/features/X and the output(y).
 
