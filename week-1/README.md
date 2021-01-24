@@ -38,8 +38,9 @@ We could turn this example into a classification problem by instead making our o
 (b) Classification - Given a patient with a tumor, we have to predict whether the tumor is malignant or benign.
 
 ---
+(#unsupervised)
 
-### Unsupervised Learning {#unsupervised}
+### Unsupervised Learning
 
 Unsupervised Learning allows us to work on the problems that has little or no idea on what our results should look like.
 
