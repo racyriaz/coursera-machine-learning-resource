@@ -41,10 +41,10 @@ We could turn this example into a classification problem by instead making our o
 
 ### Unsupervised Learning
 
-Unsupervised Learning allows us to work on the problems that has little or no idea on what our results should look like.
+Unsupervised Learning, on the other hand allows us to work on the problems that has little or no idea on what our results should look like.
 
-* We can derive a **structure by clustering the relationship between the data**.
-* They have no feedbacks based on the prediction result.
+* But we can derive a **structure by clustering the relationship between the data**.
+* Also, they have no feedbacks based on the prediction result.
 
 **Example:**
 **_Clustering:_** Take a collection of 1,000,000 different genes, and find a way to automatically group these genes into groups that are somehow similar or related by different variables, such as lifespan, location, roles, and so on.
