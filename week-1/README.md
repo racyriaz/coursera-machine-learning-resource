@@ -10,7 +10,7 @@
 ## Major types of Machine learning
 
  1. [Supervised Learning](#supervised)
- 2. [Unsupervised Learning](#unsupervised)
+ 2. [Unsupervised Learning](#Unsupervised Learning)
  3. Reinforcement Learning
  4. Recommender systems
 
@@ -38,7 +38,6 @@ We could turn this example into a classification problem by instead making our o
 (b) Classification - Given a patient with a tumor, we have to predict whether the tumor is malignant or benign.
 
 ---
-(#unsupervised)
 
 ### Unsupervised Learning
 
