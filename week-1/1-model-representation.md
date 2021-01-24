@@ -1,6 +1,6 @@
 # Model Representation & Cost Function
 
-<p align="justify">
+<p align="center">
 
 [<< previous](./README.md)  |  [Next >>](./2-parameter-learning.md)
 
