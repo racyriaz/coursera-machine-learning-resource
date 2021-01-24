@@ -6,4 +6,4 @@ contains notes taken from Coursera's Machine Learning course by Andrew NJ from S
 
 ## Index
 
-1. [Week 1 - Introduction to Machine Learning.](./week1)
+1. [Week 1 - Introduction to Machine Learning.](./week-1)
