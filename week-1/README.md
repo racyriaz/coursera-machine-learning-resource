@@ -60,4 +60,4 @@ Unsupervised Learning, on the other hand allows us to work on the problems that 
 
 ---
 
-### [Next >>](./1-model-representation.md)
+### [Next >>](./01_part1_model_representation.md)
