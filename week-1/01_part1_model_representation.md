@@ -47,4 +47,4 @@ Here the term "price" is the actual output that is obtained after a calculation/
   + b = intercept (i.e. value of y when x is 0)
 Given the feature, we can predict the future prices based on this line. This is called **Linear Regression**
 
-#### [<< previous](./README.md)  |  [Next >>](./2-parameter-learning.md)
+#### [<< previous](./README.md)  |  [Next >>](./01_part2_model_representation.md)

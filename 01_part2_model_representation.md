@@ -11,9 +11,12 @@ historically  this function was named as **Hypothesis**, ($h$)  for some reason.
 ![hypothesis function](week-1\assets\2.PNG)
 
 * its given by the equation:
+
 ### $h_{\theta}(x) = \theta_{0} + \theta_{1}x$
+
   where,
-  * $h_{\theta}$  is called *Hypothesis function* - **Function**
+
+* $h_{\theta}$  is called *Hypothesis function* - **Function**
   * $\theta_{i}$ is called *Theta* - **Parameters**
   * $i$ is 1,2,3, ... ,$m$ ⭢ number of training set
   * $\theta_{0}$ is called **intercept**, i.e. the value at which the line crosses the $y$ axis
@@ -23,13 +26,22 @@ historically  this function was named as **Hypothesis**, ($h$)  for some reason.
 
 Cost functions are used **find the best possible fit of straight line to our data.** We can measure the accuracy of our hypothesis function by using a cost function.
 
-
   i.e. to minimize $\theta_{0}$ and $\theta_{1}$ such that $(h_{\theta}(x)-y)^2$ is very minimum. *Note: punishes large errors*
-  ### Squared error function
-  ### $J(\theta_{0},\theta_{1})$ = $\sum_{i=1}^{m} (h_{\theta}(x^i)-y^i)^2$
-  * i.e. sum of (prediction - output $)^2$ should be minimum.
+
+### Squared error function
+
+### $J(\theta_{0},\theta_{1})$ = $\sum_{i=1}^{m} (h_{\theta}(x^i)-y^i)^2$
+
+* i.e. sum of (prediction - output $)^2$ should be minimum.
  $\therefore$ the cost function is given by **$J(\theta_{0},\theta_{1})$**
- ### Mean Squared error
- ### $J(\theta_{0},\theta_{1})$ = $\frac1{2m}\sum_{i=1}^{m} (h_{\theta}(x^i)-y^i)^2$
-  * where $\frac1{2m}$ is *(half the mean)* as a convenience for the computation of the gradient descent.
-    * mean is $\frac {sum of all numbers}{n}$
+
+### Mean Squared error
+
+### $J(\theta_{0},\theta_{1})$ = $\frac1{2m}\sum_{i=1}^{m} (h_{\theta}(x^i)-y^i)^2$
+
+ where
+
+* $\frac1{2m}$ is *(half the mean)* as a convenience for the computation of the gradient descent.
+* mean is $\frac {sum of all numbers}{n}$
+
+#### [<< previous](./01_part1_model_representation.md)  |  [Next >>]()
