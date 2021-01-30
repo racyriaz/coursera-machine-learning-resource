@@ -22,15 +22,15 @@ Cost functions are used **find the best possible fit of straight line to our dat
 * $\frac1{2m}$ is *(half the mean)* as a convenience for the computation of the gradient descent.
 * mean is $\frac {sum of all numbers}{n}$
 
+---
 ### VISUALIZING COST FUNCTION
 
-* In 2d plot i.e single parametric function $\theta{1}$
-  ![cost function of single parameter](./assets/4.png)
+| In 2d plot with single parametric function $\theta_{1}$ | In 3d plot with two parameters $`\theta_{0}`$ and theta_{1} |
+|---------------------------------------------------------|--------------------------------------------------------------|
+| <img src="./assets/4.png" width=auto height="250" />    | <img src="./assets/3.png" width=auto height="250">           |
 
-* in 3d plot i.e with two parameters $\theta_{0}$ and $\theta_{1}$
-  ![cost function of two parameters](./assets/3.png)
+* In general, we will use **contour plots** to visualize 3d plots into 2d plots.
 
-  we will use **contour plots** to visualize 3d plots into 2d plots
-
-* the simple working of contour plot is represented below
-  ![contour plot working](./assets/5.png =250x250)
+| *(the simple working of contour plot is represented below)*        |
+|--------------------------------------------------------------------|
+| <img align="right" src="./assets/5.png" width=auto height="350" /> |
