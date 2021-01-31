@@ -30,3 +30,6 @@ Where:
  + Dont interchange updating step order
  + a = b, means a values is equal to b value. (in mathematical notations)
    + Whereas a := b, assign the value of b to a. (overriding the values)
+
+---
+#### [<< previous](./02_part2_cost_function.md)  |  [Next >>](./03_part2_gradient_descent.md)

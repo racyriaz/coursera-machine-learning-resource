@@ -16,4 +16,4 @@ When &theta;<sub>0</sub> = 360 and &theta;<sub>1</sub> = 0. The value of J(&thet
 The graph above minimizes the cost function as much as possible and consequently, the result of &theta;<sub>1</sub> and &theta;<sub>0</sub> tend to be around 0.12 and 250 respectively. Plotting those values on our graph to the right seems to put our point in the center of the inner most 'circle'.
 
 ---
-#### [<< previous](./02_part1_cost_function.md)  |  [Next >>](./02_part1_cost_function.md)
+#### [<< previous](./02_part1_cost_function.md)  |  [Next >>](./03_part1_gradient_descent.md)
