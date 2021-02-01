@@ -16,3 +16,13 @@ Example:
 
 ![questions](./assets/18.png)
 ![answers](./assets/19.png)
+
+---
+
+## Matrix x Vector
+
+![matrix multiplied with vector](./assets/20.png)
+
+### Note: *n* in the matrix must match *n* in the Vector only then matrix multiplication is possible
+
+![detailed explanation of matrix multiplication](./assets/21.png)
