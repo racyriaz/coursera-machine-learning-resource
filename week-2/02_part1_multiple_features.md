@@ -93,3 +93,6 @@ SYNTAX:
 EXAMPLE:
   - x<sub>1</sub> = <!-- $\frac{size-1000}{2000}$ --> <img style="transform: translateY(0.4em); background: white;" src="https://render.githubusercontent.com/render/math?math=%5Cfrac%7Bsize-1000%7D%7B2000%7D">
   - x<sub>2</sub> = <!-- $\frac{size-2}{5}$ --> <img style="transform: translateY(0.4em); background: white;" src="https://render.githubusercontent.com/render/math?math=%5Cfrac%7Bsize-2%7D%7B5%7D">
+
+---
+#### [<< previous](./01_part1_matlab_setup.md)  |  [Next >>](./03_optimizing_GD.md)
