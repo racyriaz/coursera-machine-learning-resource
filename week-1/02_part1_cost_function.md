@@ -4,23 +4,23 @@
 
 Cost functions are used **find the best possible fit of straight line to our data.** We can measure the accuracy of our hypothesis function by using a cost function.
 
-  i.e. to minimize &theta;<sub>0</sub> and &theta;<sub>1</sub> such that $(h_{\theta}(x)-y)^2$ is very minimum. *Note: punishes large errors*
+  i.e. to minimize &theta;<sub>0</sub> and &theta;<sub>1</sub> such that (h<sub>&theta;</sub>(x)-y)<sup>2</sup> is very minimum. *Note: punishes large errors*
 
 #### Squared error function
 
-### $J(&theta;<sub>0</sub>,\theta_{1})$ = $\sum_{i=1}^{m} (h_{\theta}(x^i)-y^i)^2$
+<!-- $J(\theta_{0},\theta_{1}) = \sum_{i=1}^{m} (h_{\theta}(x^i)-y^i)^2$ --> <img style="transform: translateY(0.1em); background: white;" src="..\svg\yqXe4yIfRG.svg">
 
 * i.e. sum of (prediction - output $)^2$ should be minimum.
- $\therefore$ the cost function is given by **$J(&theta;<sub>0</sub>,\theta_{1})$**
+ $\therefore$ the cost function is given by **J(&theta;<sub>0</sub>,&theta;<sub>1</sub>)**
 
 #### Mean Squared error
 
-### $J(&theta;<sub>0</sub>,\theta_{1})$ = $\frac1{2m}\sum_{i=1}^{m} (h_{\theta}(x^i)-y^i)^2$
+<!-- $J(\theta_{0},\theta_{1}) = \frac1{2m}\sum_{i=1}^{m} (h_{\theta}(x^i)-y^i)^2$ --> <img style="transform: translateY(0.1em); background: white;" src="..\svg\R8f2u2EsEZ.svg">
 
  where
 
-* $\frac1{2m}$ is *(half the mean)* as a convenience for the computation of the gradient descent.
-* mean is &\frac{sum of all numbers}{n}$
+* <!-- $\frac1{2m}$ --> <img style="transform: translateY(0.1em); background: white;" src="..\svg\REhairWRHd.svg"> is (half the mean) as a convenience for the computation of the gradient descent.
+* mean is ( <sup>sum of all numbers</sup>/<sub>n</sub> )
 
 ---
 ### VISUALIZING COST FUNCTION
