@@ -87,7 +87,7 @@ SYNTAX:
 
   - x is Feature value
   - &mu; is Average value of feature
-  - s is range of values &rarr; (max - min)
+  - s is range of values &rarr; (max - min) / Standard Deviation
 
 
 EXAMPLE:
