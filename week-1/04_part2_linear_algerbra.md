@@ -59,3 +59,6 @@ i.e the number of row and number of columns will be equal.
 interchange rows as columns, cols as row
 + denoted as A<sup>T</sup>
 + if A<sup>T</sup> = B, then matrix B<sub>ji</sub> = A<sub>ij</sub>
+
+---
+#### [<< previous](./04_part1_linear_algebra.md)  |  [Next >>](../week-2/01_part1_matlab_setup.md)

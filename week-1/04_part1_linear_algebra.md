@@ -42,3 +42,4 @@ Example:
 ![answers](./assets/17.png)
 
 ---
+#### [<< previous](./03_part2_gradient_descent.md)  |  [Next >>](./04_part2_linear_algerbra.md)

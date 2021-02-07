@@ -58,3 +58,6 @@ values of θ that gradient descent went through as it converged to its minimum.
   there are no local optima (other than the global optimum).
 
 **A**. 3, 4
+
+---
+#### [<< previous](./03_part1_gradient_descent.md)  |  [Next >>](./04_part1_linear_algebra.md)
